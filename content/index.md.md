@@ -375,3 +375,4 @@
 | 10       | Konteynır açılacak.         |                                                                                                             |
 |          |                             |                                                                                                             |
 # 12.1 Uı
+deneme
