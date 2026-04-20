@@ -30,7 +30,34 @@
 >Karakterimiz gece görebilmek için flaş açabilir.
 >Karakterimizin sırt çantasının 50kg kapasitesi vardır. 
 
-# 2.2 Itemler
+# 1.2 Düşmanlar
+
+## 1.2.1 Yengeç
+![[Ekran görüntüsü 2026-04-13 150717 1.png|400]]
+- x miktarda hasar verir.
+- x miktarda canı vardır.
+- x miktarda çiğ et verir(0.05kg oyunda)
+
+## 1.2.2 Timsah
+![[Ekran görüntüsü 2026-04-13 141514 1.png|400]]
+- x miktarda hasar verir.
+- x miktarda canı vardır.
+- x miktarda çiğ et verir(0.05kg oyunda)
+
+## 1.2.3 Akrep
+![[Ekran görüntüsü 2026-04-13 140801 1.png|400]]
+- x miktarda hasar verir
+- x miktarda çiğ et verir(0.05kg oyunda)
+
+## 1.2.4 Korsan
+![[Ekran görüntüsü 2026-04-13 141154 1.png|400]]
+- x miktarda hasar verir.
+- x miktarda canı vardır.
+- Loot bırakır.(oyunda earlygame’de telsiz ve elindeki silahı düşürüyor.)
+
+
+
+# 2.1 Itemler
 ## 2.1.1 Balta
 ![[Ekran görüntüsü 2026-04-13 132110 1.png|400]]
 - Her darbede düşmanlardan x miktarda can azaltır.
@@ -76,164 +103,141 @@
 - x dayanlıklılığı vardır
 - Minecraft temalı.
 
-## 2.1.8 Elektric hacking tool
+## 2.1.9 Elektric hacking tool
 ![[Ekran görüntüsü 2026-04-13 145958 1.png|400]]
 - Elektrikli kilidi olan konteynırları hackleyerek açabilir.
-# 3.1Etkileşimli Itemler
+# 2.2 Etkileşimli Itemler
 
-## 3.1.1 WorkBench
+## 2.2.1 WorkBench
 ![[Ekran görüntüsü 2026-04-13 133843 1.png|400]]
 - Bonus itemler craft edebilmemizi sağlar
 - Tamir etmek için x malzemeler gerekir.
 
-## 3.1.2 Yatak
+## 2.2.2 Yatak
 ![[Ekran görüntüsü 2026-04-13 141007 1.png|400]]
 - Gün döngüsünde x süre geçirtir.
 - Enerjiyi fuller
 
-## 3.1.3 Ses Kayıt Cihazı
+## 2.2.3 Ses Kayıt Cihazı
 ![[Ekran görüntüsü 2026-04-13 141658 1.png|400]]
 - Ses kayıtlarını dinletir ve oyun hikayesini aktarır.
 
-## 3.1.4 Depo
+## 2.2.4 Depo
 ![[Ekran görüntüsü 2026-04-13 142020 1.png|400]]
 - Inventory’deki itemleri burda depolamamızı sağlar.
 - X miktarda slot’a sahiptir.(oyunda 50 ye yakın)
 
 
-## 3.1.5 Merdiven
+## 2.2.5 Merdiven
 ![[Ekran görüntüsü 2026-04-13 142933 1.png|400]]
 - Yüksek yerlere ulaşım için merdiven kullanabilmekteyiz.
 - Taşınamazdır, oyun alanında önceden belirlendiği bölgelerde bulunurlar.
-## 3.1.6 Teleport
+## 2.2.6 Teleport
 ![[Ekran görüntüsü 2026-04-13 144723 1.png|400]]
 - ???
 - tamir etmek için x malzemeler gerekir.
-## 3.1.7 Receipts
+## 2.2.7 Receipts
 
 | ![[Ekran görüntüsü 2026-04-13 142232 1.png\|300]]                                                                                                                       | ![[Ekran görüntüsü 2026-04-13 142827 1.png\|300]]                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | - Farklı renklerdeki bu tarifleri oyunlardaki alanlarda bularak yeni silahların nasıl yapıldığını öğrenebiliriz. Bu öğrendiğimiz silahları da Workbench’de yapabiliriz. | Tarifin rengine göre ne kadar değerli olduğu değişmektedir.(sarı en düşük değer mavi daha değerli gibi).<br> |
 |                                                                                                                                                                         |                                                                                                              |
 
-## 3.1.8 Kitchen Stove
+## 2.2.8 Kitchen Stove
 ![[Ekran görüntüsü 2026-04-13 144911 1.png|400]]
 - ???
 - tamir etmek için x malzemeler gerekir.
 
-# 4.1 Düşmanlar
-
-## 4.1.1 Yengeç
-![[Ekran görüntüsü 2026-04-13 150717 1.png|400]]
-- x miktarda hasar verir.
-- x miktarda canı vardır.
-- x miktarda çiğ et verir(0.05kg oyunda)
-
-## 4.1.2 Timsah
-![[Ekran görüntüsü 2026-04-13 141514 1.png|400]]
-- x miktarda hasar verir.
-- x miktarda canı vardır.
-- x miktarda çiğ et verir(0.05kg oyunda)
-
-## 4.1.3 Akrep
-![[Ekran görüntüsü 2026-04-13 140801 1.png|400]]
-- x miktarda hasar verir
-- x miktarda çiğ et verir(0.05kg oyunda)
-
-## 4.1.4 Korsan
-![[Ekran görüntüsü 2026-04-13 141154 1.png|400]]
-- x miktarda hasar verir.
-- x miktarda canı vardır.
-- Loot bırakır.(oyunda earlygame’de telsiz ve elindeki silahı düşürüyor.)
 
 
-# 5.1 Lootlanabilir Itemler
-## 5.1.1 ToolBox
-	![[Ekran görüntüsü 2026-04-13 143745 1.png|400]]
+
+# 2.3 Lootlanabilir Itemler
+## 2.3.1 ToolBox
+![[Ekran görüntüsü 2026-04-13 142232 2.png|400]]
 - Dismantle(parçala) yaparak içindeki itemleri lootlayabiliyoruz.
 
 
-## 5.1.2 Shower Pipe
+## 2.3.2 Shower Pipe
 ![[Ekran görüntüsü 2026-04-13 150822 1.png|400]]
 - Dismantle(parçala) yaparak içinden loot çıkartabiliyoruz.
 
-## 5.1.3 Vacuum Cleaner
+## 2.3.3 Vacuum Cleaner
 ![[Ekran görüntüsü 2026-04-13 150952 1.png|400]]
 - Dismantle(parçala) yaparak içinden loot çıkartabiliyoruz.
 - 1 Lastik boru + 1 metal boru çıkar.
 
-## 5.1.4 Wooden Crate
+## 2.3.4 Wooden Crate
 ![[Ekran görüntüsü 2026-04-13 151151 1.png|400]]
 - Dismantle(parçala) yaparak içinden loot çıkartabiliyoruz.
 - 2 tahta +1 çivi çıkar. 
 
-## 5.1.5 Barrel of Gasoline
+## 2.3.5 Barrel of Gasoline
 ![[Ekran görüntüsü 2026-04-13 145344 1.png|400]]
 - Dismantle(parçala) yaparak içinden 3 parça benzin lootlayabiliyoruz.
 
 
 
-## 5.1.6 Box of Water
+## 2.3.6 Box of Water
 ![[Ekran görüntüsü 2026-04-13 145806 1.png|400]]
 - Dismantle(parçala) yaparak içinden 2 adet su şişesi çıkartabiliyoruz.
-## 5.1.7 Su Sebili
+## 2.3.7 Su Sebili
 ![[Ekran görüntüsü 2026-04-20 130550.png|400]]
 - Dismantle(parçala) yaparak içinden 1 adet su şişesi çıkartabiliyoruz.
 
-## 5.1.8 Su Sebili
+## 2.3.8 Su Sebili
 ![[Ekran görüntüsü 2026-04-20 130707.png|400]]
 - Dismantle(parçala) yaparak içinden loot çıkartabiliyoruz.
 - 1 Su şişesi + 1 Koli Bandı + 1 Muz + 1 Batarya + 1 Lastik boru + Alkol verir
 
 
-## 5.1.9 Ahşap Kasa
+## 2.3.9 Ahşap Kasa
 ![[Ekran görüntüsü 2026-04-20 130946.png|400]]
 - Dismantle(parçala) yaparak içinden 1 adet tahta  verir.
 
-## 5.1.10 Ahşap Kasa
+## 2.3.10 Ahşap Kasa
 ![[Ekran görüntüsü 2026-04-20 131321.png|400]]
 - Dismantle(parçala) yaparak içinden loot çıkartabiliyoruz.
 - 1 Metal Boru + 1 Kumaş verir.
 
-## 5.1.11 Bayrak Kutuları
+## 2.3.11 Bayrak Kutuları
 ![[Ekran görüntüsü 2026-04-20 131544.png|400]]
 - Dismantle(parçala) yaparak içinden loot çıkartabiliyoruz.
 - 6 Kumaş + 6 Ahşap direk verir.
 
 
-## 5.1.12 Çivi Kutusu
+## 2.3.12 Çivi Kutusu
 ![[Ekran görüntüsü 2026-04-20 132247.png|400]]
 - Dismantle(parçala) yaparak içinden 2 adet çivi çıkartabiliyoruz.
 
-## 5.1.13 Teyp Kutuları
+## 2.3.13 Teyp Kutuları
 ![[Ekran görüntüsü 2026-04-20 132430.png|400]]
 - Dismantle(parçala) yaparak içinden 7 adet sargı bezi çıkartabiliyoruz.
 
 
-## 5.1.14 İlk Yardım Çantası
+## 2.3.14 İlk Yardım Çantası
 ![[Ekran görüntüsü 2026-04-20 133514.png|400]]
 - Dismantle(parçala) yaparak içinden 1 adet ilk yardım çantası çıkartabiliyoruz.
 
-## 5.1.15 Koltuk
+## 2.3.15 Koltuk
 ![[Ekran görüntüsü 2026-04-20 133650.png|400]]
 - Dismantle(parçala) yaparak içinden loot çıkartabiliyoruz.
 - Tahta(1) + Kumaş(1) + Çivi(1) + Yay(1) + Ahşap direk(2) verir.
 
-## 5.1.16 Piyano
+## 2.3.16 Piyano
 ![[Ekran görüntüsü 2026-04-20 134453.png|400]]
 - Dismantle(parçala) yaparak içinden loot çıkartabiliyoruz.
 - Tahta(1) + x? verir.
 
-## 5.1.17 Dolap
+## 2.3.17 Dolap
 ![[Ekran görüntüsü 2026-04-20 134837.png|400]]
 - Dismantle(parçala) yaparak içinden 2 adet tahta çıkartabiliyoruz.
 
 
-## 5.1.18 Top Makarası
+## 2.3.18 Top Makarası
 ![[Ekran görüntüsü 2026-04-20 140408.png|400]]
 - Dismantle(parçala) yaparak içinden 1 adet Lastik Boru çıkartabiliyoruz.
 
-## 5.1.19 Top Makarası
+## 2.3.19 Top Makarası
 ![[Ekran görüntüsü 2026-04-20 140615.png|400]]
 - Dismantle(parçala) yaparak içinden 2 adet Lastik Boru çıkartabiliyoruz.
 
@@ -243,16 +247,16 @@
 
 
 
-# 6.1 Kullanılabilir Itemler
+# 2.4 Kullanılabilir Itemler
 
-## 6.1.1 Sargı Bezi
+## 2.4.1 Sargı Bezi
 ![[Ekran görüntüsü 2026-04-13 143439 1.png|400]]
 - x miktarda can yeniler.
 - kullanmak x süre geçirtir.
 - kullanırken damage yersek bozulur.
 
 
-## 6.1.2 Muz
+## 2.4.2 Muz
 ![[Ekran görüntüsü 2026-04-13 144257 1.png|400]]
 - x miktarda can yeniler.
 - x miktarda açlık yeniler.
@@ -262,55 +266,54 @@
 
 
 
-## 6.1.3 Su
+## 2.4.3 Su
 ![[Ekran görüntüsü 2026-04-13 144245 1.png|400]]
 - x miktarda susama yeniler.
 - kullanmak x süre geçirtir.
 - kullanırken damage yersek bozulur.
-## 6.1.4 Konserve Yiyecek
+## 2.4.4 Konserve Yiyecek
 ![[Ekran görüntüsü 2026-04-20 125653.png|200]]
 - x miktarda susama yeniler.
 - kullanmak x süre geçirtir.
 - kullanırken damage yersek bozulur.
 
-## 6.1.4 Konserve Yiyecek
-# 7.1 Engeller
+# 3.1 Engeller
 
-## 7.1.1 Kırık Havalandırma kapağı
+## 3.1.1 Kırık Havalandırma kapağı
 ![[Ekran görüntüsü 2026-04-13 142634 1.png|400]]
 - Havalandırmalara girişi engeller.
 - **Testere** ile kesilebilir.
 
-## 7.1.2 Patlak Borular
+## 3.1.2 Patlak Borular
 ![[Ekran görüntüsü 2026-04-13 143238 1.png|400]]
 - X miktarda hasar verir.
 - Oyunucuyu x miktarda geriye iter ve geçişe izin vermez.
 
 
-## 7.1.3 Yapışkan Kapı kilidi
+## 3.1.3 Yapışkan Kapı kilidi
 ![[Ekran görüntüsü 2026-04-13 133555 1.png|400]]
 - Kapının açılmasını engeller.
 - Açmak için testere gerekir.
 
-## 7.1.4 Havalandırma kapağı
+## 3.1.4 Havalandırma kapağı
 ![[Ekran görüntüsü 2026-04-13 145214 1.png|400]]
 - Havalandırmalara girişi engeller.
 - **Maymuncuk** ile açılabilir.
 
-## 7.1.5 Düz Kapılar
+## 3.1.5 Düz Kapılar
 ![[Ekran görüntüsü 2026-04-13 144616 1.png|400]]
 - Etkileşime girerek açılabilir herhangi bir alete ihtiyaç duymaz.
 
-## 7.1.6 Vana
+## 3.1.6 Vana
 ![[Ekran görüntüsü 2026-04-13 145022 1.png|400]]
 - Etkileşime girerek açılabilir herhangi bir alete ihtiyaç duymaz.
 
 
-## 7.1.7 Elektrikli kilitli konteynır
+## 3.1.7 Elektrikli kilitli konteynır
 ![[Ekran görüntüsü 2026-04-13 150004 1.png|400]]
 - Elektrikli hack tool ile açılabilir.
 
-# 8.1 Parçalar
+# 4.1 Parçalar
 
 
 | **İsim**                | **ağırlık** | **fotoğraf**                                    |
@@ -337,7 +340,7 @@
 | Kömür                   | 0kg         | ![[Ekran görüntüsü 2026-04-20 135713.png\|100]] |
 |                         |             |                                                 |
 	
-# 9.1 Tarif Menüsü
+# 4.2 Tarif Menüsü
 
 
 | **Tarif**   | **Gereken bileşenler**                               |
@@ -349,7 +352,7 @@
 | Levye       | Metal Boru(1) + Kumaş(2) + Koli Bandı(2)             |
 | Garip Kılıç | Ahşap Direk(2) + Sertleştirilmiş Çelik(2) + Kömür(2) |
 |             |                                                      |
-# 10.1 Yapı Menüsü
+# 4.3 Yapı Menüsü
 
 | **Tarif**       | **Gereken bileşenler**                           |
 | --------------- | ------------------------------------------------ |
@@ -360,7 +363,7 @@
 | Yatak           | Tahta(4) + Kumaş(4) + Yay(4)                     |
 |                 |                                                  |
 
-# 11.1 Görevler
+# 5.1 Görevler
 | **Sıra** | **Görev **                  | "Oyunla Kıyaslama"                                                                                          |
 | -------- | --------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | 1        | Tuşları Öğretme             |                                                                                                             |
@@ -375,8 +378,5 @@
 | 10       | Konteynır açılacak.         |                                                                                                             |
 |          |                             |                                                                                                             |
 |          |                             |                                                                                                             |
-# 12.1 Uı
-deneme ![[hq720 (1).jpg]]asddadad
-asdasdasdasd
-asdasdasdsadas
-asdsadsa
+# 6.1 Uı
+![[hq720 (1).jpg|400]]![[Pasted image 20260420173207.png|400]]
