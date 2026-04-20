@@ -376,4 +376,7 @@
 |          |                             |                                                                                                             |
 |          |                             |                                                                                                             |
 # 12.1 Uı
-deneme ![[hq720 (1).jpg]]
+deneme ![[hq720 (1).jpg]]asddadad
+asdasdasdasd
+asdasdasdsadas
+asdsadsa
