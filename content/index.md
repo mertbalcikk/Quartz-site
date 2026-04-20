@@ -374,5 +374,6 @@
 | 9        | Maymuncuk ile kapı açılacak |                                                                                                             |
 | 10       | Konteynır açılacak.         |                                                                                                             |
 |          |                             |                                                                                                             |
+|          |                             |                                                                                                             |
 # 12.1 Uı
-deneme
+deneme ![[hq720 (1).jpg]]
